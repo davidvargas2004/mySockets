@@ -1,0 +1,8 @@
+ {
+    "help": "this display", 
+    "send message":"send message to index",
+    "save number":"Save node's number",
+    "clear":"clean this display",
+    "bye":"close the client",
+    "about": "show the developer software information"
+}
